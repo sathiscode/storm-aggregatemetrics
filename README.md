@@ -1,1 +1,1 @@
-# storm-aggregatemetrics
+This metrics tracks min, max, count & sum of values based on the input given to its reduce() method. (It accepts Double, Integer or Long values, and maintains the internal values as a Double.) 
